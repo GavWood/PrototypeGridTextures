@@ -4,8 +4,11 @@ Pixel perfect grid textures for 3D prototyping.
 Text is:
 
 PROTOTYPE
+
 512 x 512 px
+
 1 x 1 m
+
 
 Palette 1: Black, Khaki, Columbia Blue, Champagne and Cambridge Blue.
 
